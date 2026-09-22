@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+    cout << "Simple Calculator" << endl;
+
     int number1 = 20;
     int number2 = 5;
 
