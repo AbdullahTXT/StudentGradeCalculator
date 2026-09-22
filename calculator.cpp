@@ -15,5 +15,8 @@ int main()
     cout << "Product: "
          << number1 * number2 << endl;
 
+    cout << "Division: "
+         << number1 / number2 << endl;
+
     return 0;
 }
