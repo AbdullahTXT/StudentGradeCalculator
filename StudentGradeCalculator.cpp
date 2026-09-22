@@ -24,5 +24,10 @@ int main()
     cout << "Grade 3: " << grade3 << endl;
     cout << "Average: " << average << endl;
 
+    int numberOfStudents = 25;
+
+    cout << "Number of students: "
+         << numberOfStudents << endl;
+
     return 0;
 }
