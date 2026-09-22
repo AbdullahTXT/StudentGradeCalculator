@@ -29,5 +29,7 @@ int main()
     cout << "Number of students: "
          << numberOfStudents << endl;
 
+    // Feature: Calculate the average of grades for a student added
+
     return 0;
 }
