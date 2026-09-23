@@ -30,6 +30,7 @@ int main()
          << numberOfStudents << endl;
 
     // Feature: Calculate the average of grades for a student added
+    // Feature: Nationality of the student added
 
     return 0;
 }
