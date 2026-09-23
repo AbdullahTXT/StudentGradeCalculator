@@ -30,6 +30,6 @@ int main()
          << numberOfStudents << endl;
 
     // Feature: Calculate the average of grades for a student added
-
+    // Feature: Place of Birth added
     return 0;
 }
